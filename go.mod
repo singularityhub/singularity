@@ -52,7 +52,7 @@ require (
 	golang.org/x/sys v0.0.0-20220128215802-99c3d69c2c27
 	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211
 	gopkg.in/yaml.v2 v2.4.0
-	gotest.tools/v3 v3.1.0
+	gotest.tools/v3 v3.2.0
 	mvdan.cc/sh/v3 v3.4.3-0.20220202175809-113ed667a8a7
 	oras.land/oras-go v1.1.0
 )
