@@ -1112,8 +1112,8 @@ github.com/sylabs/scs-build-client v0.4.1/go.mod h1:ywvU50Pe47r6HHIHoWOdpwVAg7yZ
 github.com/sylabs/scs-key-client v0.7.2 h1:q1ia4gSVD7z3u706N7aIwtk70SayfeAeL8Uo322JuYo=
 github.com/sylabs/scs-key-client v0.7.2/go.mod h1:cmD4C9QfNLXW4QSXvwoaPZAuwaToIsHuD0AUHNdjDlA=
 github.com/sylabs/scs-library-client v1.2.1/go.mod h1:WddtCtL42AAsmCiUe8oxjHKbER5vbXtaO7Cxlmf+n0c=
-github.com/sylabs/scs-library-client v1.2.2 h1:tg3rgOl1UKTtX3FxGo7XAyeVtysq9g5gJPOTao/TvDA=
-github.com/sylabs/scs-library-client v1.2.2/go.mod h1:5Kr7ZDkCTyMjoR4Ds1RUytXbZDE10LWH7VSeMOorfus=
+github.com/sylabs/scs-library-client v1.3.3 h1:cpzSfewIUBWyzHfPzlxLYrTeqG1Gp+NLAbroVTQAVec=
+github.com/sylabs/scs-library-client v1.3.3/go.mod h1:PBd6LqmOhliHhTfzp3mVrJv3QVQFre8bMr6j2tDnu/c=
 github.com/sylabs/sif/v2 v2.3.1/go.mod h1:NnvveH62GiibimL00MrI6YYcZfb7DnZMcRo/40giY+0=
 github.com/sylabs/sif/v2 v2.3.2/go.mod h1:IrLX2pzmQ2O4qgv5iy3HdKJcBNYds9DTMd9Je8A9tX4=
 github.com/sylabs/sif/v2 v2.4.1 h1:LaXhv/QjNJ7SWjrouSWKa2hE1hh17oMEUbLy51KLv0c=
@@ -1408,8 +1408,9 @@ golang.org/x/sync v0.0.0-20200317015054-43a5402ce75a/go.mod h1:RxMgew5VJxzue5/jJ
 golang.org/x/sync v0.0.0-20200625203802-6e8e738ad208/go.mod h1:RxMgew5VJxzue5/jJTE5uejpjVlOe/izrB70Jof72aM=
 golang.org/x/sync v0.0.0-20201020160332-67f06af15bc9/go.mod h1:RxMgew5VJxzue5/jJTE5uejpjVlOe/izrB70Jof72aM=
 golang.org/x/sync v0.0.0-20201207232520-09787c993a3a/go.mod h1:RxMgew5VJxzue5/jJTE5uejpjVlOe/izrB70Jof72aM=
-golang.org/x/sync v0.0.0-20210220032951-036812b2e83c h1:5KslGYwFpkhGh+Q16bwMP3cOontH8FOep7tGV86Y7SQ=
 golang.org/x/sync v0.0.0-20210220032951-036812b2e83c/go.mod h1:RxMgew5VJxzue5/jJTE5uejpjVlOe/izrB70Jof72aM=
+golang.org/x/sync v0.0.0-20220513210516-0976fa681c29 h1:w8s32wxx3sY+OjLlv9qltkLU5yvJzxjjgiHWLjdIcw4=
+golang.org/x/sync v0.0.0-20220513210516-0976fa681c29/go.mod h1:RxMgew5VJxzue5/jJTE5uejpjVlOe/izrB70Jof72aM=
 golang.org/x/sys v0.0.0-20180823144017-11551d06cbcc/go.mod h1:STP8DvDyc/dI5b8T5hshtkjS+E42TnysNCUPdjciGhY=
 golang.org/x/sys v0.0.0-20180830151530-49385e6e1522/go.mod h1:STP8DvDyc/dI5b8T5hshtkjS+E42TnysNCUPdjciGhY=
 golang.org/x/sys v0.0.0-20180905080454-ebe1bf3edb33/go.mod h1:STP8DvDyc/dI5b8T5hshtkjS+E42TnysNCUPdjciGhY=
